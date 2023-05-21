@@ -1,3 +1,3 @@
 # Javascript Projects :-
 
-1. Calculator - [Link](https://resplendent-lollipop-21c0de.netlify.app/)
+1. Calculator - [Link](https://legendary-manatee-602b84.netlify.app/)
